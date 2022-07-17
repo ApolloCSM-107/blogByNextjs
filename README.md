@@ -1,6 +1,9 @@
 **nextを使用して作成したブログです**
-以下のURLからブログを確認することができます。
+
+以下のURLから作成したブログを確認することができます。
 [haruna code](https://blog-by-nextjs.vercel.app/)
+=======
+
 ---
 https://nextjs-blog-udemy-mod.vercel.app
 
@@ -38,4 +41,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# nextjs-blog-udemy
+
