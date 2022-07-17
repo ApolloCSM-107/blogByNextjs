@@ -1,6 +1,6 @@
 **nextを使用して作成したブログです**
 
-以下から
+
 ---
 https://nextjs-blog-udemy-mod.vercel.app
 
