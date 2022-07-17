@@ -1,6 +1,6 @@
 **nextを使用して作成したブログです**
-
-以下から
+以下のURLからブログを確認することができます。
+[haruna code](https://blog-by-nextjs.vercel.app/)
 ---
 https://nextjs-blog-udemy-mod.vercel.app
 
